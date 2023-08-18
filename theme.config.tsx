@@ -4,9 +4,9 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>EndGame</span>,
   project: {
-    link: 'https://github.com/owocki/endgame/tree/main',
+    link: 'https://github.com/endgameinitiative/main/tree/main',
   },
-  docsRepositoryBase: 'https://github.com/owocki/endgame/tree/main',
+  docsRepositoryBase: 'https://github.com/endgameinitiative/main/tree/main',
   footer: {
     text: 'Endgame',
   },

@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/owocki/endgame.git"
+    "url": "git+https://github.com/endgameinitiative/main.git"
   },
   "author": "Kevin Owocki <ksowocki@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/owocki/endgame/issues"
+    "url": "https://github.com/endgameinitiative/main/issues"
   },
-  "homepage": "https://github.com/owocki/endgame#readme",
+  "homepage": "https://github.com/endgameinitiative/main#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
