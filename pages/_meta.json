@@ -1,11 +1,3 @@
 {
-  "index": "Overview",
-  "---": {
-    "type": "separator"
-  },
-  "endgame_plan": "EndGame Plan",
-  "---": {
-    "type": "separator"
-  },
-  "research": "Research"
+  "index": "Overview"
 }
