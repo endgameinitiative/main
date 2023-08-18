@@ -1,3 +1,6 @@
 {
-  "index": "Overview"
+  "index": "Welcome",
+  "overview": "Overview",
+  "accepted_proposals": "Accepted Proposals",
+  "all_proposals": "All Proposals"
 }
