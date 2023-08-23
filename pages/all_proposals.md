@@ -1,8 +1,34 @@
+import { Callout } from "nextra/components";
+
+<Callout type="warning">
+  Warning: This resource describes planned functionality and processes that has
+  not been implemented and is not part of any official roadmap. Be aware that parts may be inaccurate or out of
+  date.  This document should not be relied on for financial, tax, business, or any other type of advice.
+</Callout>
+
 # All proposals
 
-Here is a list of proposals.
-1. [Kevin/Kyle endgame](https://k2.endgame.work/endgame_plan/tldr) - a repository that contains a handful of strategic documents and proposals.
+## 1. K2 (Kyle/Kevin) proposal 
 
-More proposal welcome.
+https://k2.endgame.work/
+
+Deeply opinionated & created by Kevin Owocki + Kyle Weiss.   The following research was done:
+1. Interviews with Rune & Kain.
+2. Close working process with Michael Kriak.
+3. Watching all of the CSDO livestreams
+4. Reading all of the gov forums.
+5. Drawing on many years of synthesis of information available a Gitcoin co-founder.
+6. Drawing on discussions on twitter or in Discords about Gitcoin.
+
+The K2 perspective version of this endgame doc:
+1. are meant to stimulate disussion about strategy (but are not meant to be taken as gospel).
+2. are focused on what's best for the DAO (not whats best for any one constituent-set)
+3. are focused on finding the high leverage points, [the upward spirals](https://community.supermodular.xyz/t/upward-spirals/289), and the hard trade-offs well ahead of time & in good faith.
+
+You can access K2 endgame at https://k2.endgame.work/
+
+## Proposals welcome
+
+More proposal welcome are.
 1. whomever is interested is welcome to write a proposal and link it here.
-2. you are invited to apply if you work for Gitcoin, used to work for Gitcoin, have used Gitcoin products, or otherwise have skin in the regen ecosystem game.
+2. you are invited to apply if you work for Gitcoin, used to work for Gitcoin, have used Gitcoin products, or otherwise have skin in the regen ecosystem.
