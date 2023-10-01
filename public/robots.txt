@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://endgame.gitcoin.co
+
+# Sitemaps
+Sitemap: https://endgame.gitcoin.co/sitemap.xml
